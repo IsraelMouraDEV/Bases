@@ -4,4 +4,5 @@ oi654321;user
 oi369258;admin
 oi047239;user
 oi933788;admin
-raeldosbeats@gmail.com
+raeldosbeats@gmail.com;user
+cenarioredhiphop@gmail.com;admin
